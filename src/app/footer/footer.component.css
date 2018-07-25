@@ -1,0 +1,10 @@
+span {
+    color: rgba(255, 255, 255, 0.664);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+}
+
+.row {
+    background: rgb(2, 41, 78);
+    padding: 3px;
+}

@@ -1,0 +1,9 @@
+img {
+    height: 120px;
+    border: solid 1px; 
+}
+
+#text {
+    color: rgb(74, 90, 105);
+    font-family: Georgia, 'Times New Roman', Times, serif
+}

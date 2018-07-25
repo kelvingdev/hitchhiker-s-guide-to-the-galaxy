@@ -1,0 +1,25 @@
+.zoom {
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    padding-top: 3%;
+}
+
+.zoom:hover img{
+    transform: scale(1.4);
+}
+
+.row {
+    padding-left: 2%;
+}
+.zoom img{
+    transition: all 1s;
+}
+
+h5 {
+    text-align: center;
+}
+.card {
+    border: solid 1px;
+    border-color: rgb(199, 199, 199);
+}
